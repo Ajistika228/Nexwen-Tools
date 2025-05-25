@@ -1,3 +1,10 @@
 {
-  "update_vers" : 2.1
+  "update_vers" : 2.1,
+
+  "BlackList" : [
+    "Neymar_Thein",
+    "Michael_Dewerro",
+    "Hentai",
+  ]
+  
 }
