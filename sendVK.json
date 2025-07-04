@@ -1,16 +1,54 @@
 {
-    "[Владелец] Ademi_Bala": "@rm_ramil",
-    "[ЗР] Neymar_Thein": "@mmmmzk",
-    "[Разраб] dev": "@khromovxgod",
-    "[ЗР] Max_Crypto": "@idvmo",
-    "[ЗР] Cavallaro": "@cavallaro13",
-    "[ПР] Dimka_Mayorov": "@dimkamayorov",
-    "[Осн] Rick_Morison": "@id614093539",
-    "[ПР] Casual_Morison": "@asdgasdfsdasfasfa",
-    "[ГА] Ghost_Jinwoo": "@dikoe_zlo",
-    "[ЗГА] Pablo_Dewerro": "@fjfjfjfjfjfjfjfjjf",
-    "[ЗГА] Tomioko Nakamura": "@morisoncakett",
-    "[Тех. Адм] Shizik": "@cybercrime_x",
-    "[КС] Kishlak_Dewerro": "@malyarenkosergey"
-
+    "[Владелец] Ademi_Bala": {
+        "vk": "@rm_ramil",
+        "sort": 1
+    },
+    "[ЗР] Neymar_Thein": {
+        "vk": "@mmmmzk",
+        "sort": 2
+    },
+    "[Разраб] dev": {
+        "vk": "@khromovxgod",
+        "sort": 3
+    },
+    "[ЗР] Max_Crypto": {
+        "vk": "@idvmo",
+        "sort": 4
+    },
+    "[ЗР] Cavallaro": {
+        "vk": "@cavallaro13",
+        "sort": 5
+    },
+    "[ПР] Dimka_Mayorov": {
+        "vk": "@dimkamayorov",
+        "sort": 6
+    },
+    "[Осн] Rick_Morison": {
+        "vk": "@id614093539",
+        "sort": 7
+    },
+    "[ПР] Casual_Morison": {
+        "vk": "@asdgasdfsdasfasfa",
+        "sort": 8
+    },
+    "[ГА] Ghost_Jinwoo": {
+        "vk": "@dikoe_zlo",
+        "sort": 9
+    },
+    "[ЗГА] Pablo_Dewerro": {
+        "vk": "@fjfjfjfjfjfjfjfjjf",
+        "sort": 10
+    },
+    "[ЗГА] Tomioko Nakamura": {
+        "vk": "@morisoncakett",
+        "sort": 11
+    },
+    "[Тех. Адм] Shizik": {
+        "vk": "@cybercrime_x",
+        "sort": 12
+    },
+    "[КС] Kishlak_Dewerro": {
+        "vk": "@malyarenkosergey",
+        "sort": 13
+    }
 }
