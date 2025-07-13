@@ -1,62 +1,62 @@
 {
-    "[Владелец] Адеми_Бала": {
-        "вк": "@rm_ramil",
-        "вроде как": 1
+    "[Владелец] Ademi_Bala": {
+        "vk": "@rm_ramil",
+        "sort": 1
     },
-    "[Тех. Адм] Шизик": {
-        "вк": "@cybercrime_x",
-        "вроде как": 2
+    "[Тех. Адм] Shizik": {
+        "vk": "@cybercrime_x",
+        "sort": 2
     },
     "[Разраб] dev": {
-        "вк": "@khromovxgod",
-        "вроде как": 3
+        "vk": "@khromovxgod",
+        "sort": 3
     },
-    "[Рук-во] Рик_Морисон": {
-        "вк": "@id614093539",
-        "вроде как": 4
+    "[Рук-во] Rick_Morison": {
+        "vk": "@id614093539",
+        "sort": 4
     },
-    "[п. Рук] Макс_Крипто": {
-        "вк": "@idvmo",
-        "вроде как": 5
+    "[п. Рук] Max_Crypto": {
+        "vk": "@idvmo",
+        "sort": 5
     },
-    "[ЗР] Неймар_Тейн": {
-        "вк": "@mmmmzk",
-        "вроде как": 6
+    "[ЗР] Neymar_Thein": {
+        "vk": "@mmmmzk",
+        "sort": 6
     },
-    "[ЗР] Кавалларо": {
-        "вк": "@cavallaro13",
-        "вроде как": 7
+    "[ЗР] Cavallaro": {
+        "vk": "@cavallaro13",
+        "sort": 7
     },
-    "[ПР] Димка_Майоров": {
-        "вк": "@dimkamayorov",
-        "вроде как": 8
+    "[ПР] Dimka_Mayorov": {
+        "vk": "@dimkamayorov",
+        "sort": 8
     },
     "[ПР] Casual_Morison": {
-        "вк": "@asdgasdfsdasfasfa",
-        "вроде как": 9
+        "vk": "@asdgasdfsdasfasfa",
+        "sort": 9
     },
     "[КА] Ghost_Jinwoo": {
-        "вк": "@dikoe_zlo",
-        "вроде как": 10
+        "vk": "@dikoe_zlo",
+        "sort": 10
     },
-    "[ГА] Пабло_Дьюэрро": {
-        "вк": "@fjfjfjfjfjfjfjfjf",
-        "вроде как": 11
+    "[ГА] Pablo_Dewerro": {
+        "vk": "@fjfjfjfjfjfjfjfjjf",
+        "sort": 11
     },
-    "[ЗГА] Нет": {
-        "вк": "",
-        "вроде как": 12
+    "[ЗГА] None": {
+        "vk": "",
+        "sort": 12
     },
-    "[ЗГА] Томиоко Накамура": {
-        "вк": "@morisoncakett",
-        "вроде как": 13
+    "[ЗГА] Tomioko Nakamura": {
+        "vk": "@morisoncakett",
+        "sort": 13
     },
-    "[КС] принцесса": {
-        "вк": "@umbrellanotbad",
-        "вроде как": 14
+    "[КС] princess": {
+        "vk": "@umbrellanotbad",
+        "sort": 14
     },
-    "[КС] Алекс_Теслов": {
-        "вк": "@qwerty123432",
-        "вроде как": 15
+    "[КС] Alex_Teslov": {
+        "vk": "@qwerty123432",
+        "sort": 15
     }
 }
