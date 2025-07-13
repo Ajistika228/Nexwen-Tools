@@ -1,58 +1,62 @@
 {
-    "[Владелец] Ademi_Bala": {
-        "vk": "@rm_ramil",
-        "sort": 1
+    "[Владелец] Адеми_Бала": {
+        "вк": "@rm_ramil",
+        "вроде как": 1
     },
-    "[Тех. Адм] Shizik": {
-        "vk": "@cybercrime_x",
-        "sort": 2
+    "[Тех. Адм] Шизик": {
+        "вк": "@cybercrime_x",
+        "вроде как": 2
     },
     "[Разраб] dev": {
-        "vk": "@khromovxgod",
-        "sort": 3
+        "вк": "@khromovxgod",
+        "вроде как": 3
     },
-    "[Рук-во] Rick_Morison": {
-        "vk": "@id614093539",
-        "sort": 4
+    "[Рук-во] Рик_Морисон": {
+        "вк": "@id614093539",
+        "вроде как": 4
     },
-    "[ЗР] Neymar_Thein": {
-        "vk": "@mmmmzk",
-        "sort": 5
+    "[п. Рук] Макс_Крипто": {
+        "вк": "@idvmo",
+        "вроде как": 5
     },
-    "[п. Рук] Max_Crypto": {
-        "vk": "@idvmo",
-        "sort": 6
+    "[ЗР] Неймар_Тейн": {
+        "вк": "@mmmmzk",
+        "вроде как": 6
     },
-    "[ЗР] Cavallaro": {
-        "vk": "@cavallaro13",
-        "sort": 7
+    "[ЗР] Кавалларо": {
+        "вк": "@cavallaro13",
+        "вроде как": 7
     },
-    "[ПР] Dimka_Mayorov": {
-        "vk": "@dimkamayorov",
-        "sort": 8
+    "[ПР] Димка_Майоров": {
+        "вк": "@dimkamayorov",
+        "вроде как": 8
     },
     "[ПР] Casual_Morison": {
-        "vk": "@asdgasdfsdasfasfa",
-        "sort": 9
+        "вк": "@asdgasdfsdasfasfa",
+        "вроде как": 9
     },
-    "[ГА] Ghost_Jinwoo": {
-        "vk": "@dikoe_zlo",
-        "sort": 10
+    "[КА] Ghost_Jinwoo": {
+        "вк": "@dikoe_zlo",
+        "вроде как": 10
     },
-    "[ЗГА] Pablo_Dewerro": {
-        "vk": "@fjfjfjfjfjfjfjfjjf",
-        "sort": 11
+    "[ГА] Пабло_Дьюэрро": {
+        "вк": "@fjfjfjfjfjfjfjfjf",
+        "вроде как": 11
     },
-    "[ЗГА] Tomioko Nakamura": {
-        "vk": "@morisoncakett",
-        "sort": 12
+    "[ЗГА] Нет": {
+        "вк": ",
+        "вроде как": 12
     },
-    "[КС] Kishlak_Dewerro": {
-        "vk": "@malyarenkosergey",
-        "sort": 13
+    "[ЗГА] Томиоко Накамура": {
+        "вк": "@morisoncakett",
+        "вроде как": 13
     },
-    "[КС] Alex_Teslov": {
-        "vk": "@qwerty123432",
-        "sort": 14
+    "[КС] принцесса": {
+        "вк": "@umbrellanotbad",
+        "вроде как": 14
+    },
+    "[КС] Алекс_Теслов": {
+        "вк": "@qwerty123432",
+        "вроде как": 15
     }
 }
