@@ -1,62 +1,43 @@
 {
-    "[Владелец] Ademi_Bala": {
-        "vk": "@rm_ramil",
-        "sort": 1
+    "Ademi_Bala": {
+      "vk": "@rm_ramil",
+      "sort": 1
     },
-    "[Тех. Адм] Shizik": {
-        "vk": "@cybercrime_x",
-        "sort": 2
+    "Max_Crypto": {
+      "vk": "@idvmo",
+      "sort": 2
     },
-    "[Разраб] dev": {
-        "vk": "@khromovxgod",
-        "sort": 3
+    "dev": {
+      "vk": "@khromovxgod",
+      "sort": 3
     },
-    "[Рук-во] Rick_Morison": {
-        "vk": "@id614093539",
-        "sort": 4
+    "IceTea": {
+      "vk": "",
+      "sort": 4
     },
-    "[п. Рук] Max_Crypto": {
-        "vk": "@idvmo",
-        "sort": 5
+    "Dimka_Mayorov": {
+      "vk": "@dimkamayorov",
+      "sort": 5
     },
-    "[ЗР] Neymar_Thein": {
-        "vk": "@mmmmzk",
-        "sort": 6
+    "Cavallaro": {
+      "vk": "@cavallaro13",
+      "sort": 6
     },
-    "[ЗР] Cavallaro": {
-        "vk": "@cavallaro13",
-        "sort": 7
+    "Neymar_Thein": {
+      "vk": "@mmmmzk",
+      "sort": 7
     },
-    "[ПР] Dimka_Mayorov": {
-        "vk": "@dimkamayorov",
-        "sort": 8
+    "Yriy_Havanskiy": {
+      "vk": "",
+      "sort": 8
     },
-    "[ПР] Casual_Morison": {
-        "vk": "@asdgasdfsdasfasfa",
-        "sort": 9
+    "Opher_Mur": {
+      "vk": "",
+      "sort": 9
     },
-    "[КА] Ghost_Jinwoo": {
-        "vk": "@dikoe_zlo",
-        "sort": 10
-    },
-    "[ГА] Pablo_Dewerro": {
-        "vk": "@fjfjfjfjfjfjfjfjjf",
-        "sort": 11
-    },
-    "[ЗГА] None": {
-        "vk": "",
-        "sort": 12
-    },
-    "[ЗГА] Tomioko Nakamura": {
-        "vk": "@morisoncakett",
-        "sort": 13
-    },
-    "[КС] princess": {
-        "vk": "@umbrellanotbad",
-        "sort": 14
-    },
-    "[КС] Alex_Teslov": {
-        "vk": "@qwerty123432",
-        "sort": 15
+    "Ghost_Jinwoo": {
+      "vk": "@dikoe_zlo",
+      "sort": 10
     }
-}
+  }
+  
