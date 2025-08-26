@@ -1,5 +1,20 @@
 {
-  "nicks" : [
-    "АЛЛАХ АКБАР": [
-  ]
+  "azan": {
+    "title": "Исламский призыв к молитве",
+    "phrases": [
+      {
+        "arabic": "الله أكبر",
+        "transliteration": "Allahu Akbar",
+        "translation": "Аллах Величайший",
+        "repetition": 4
+      },
+      {
+        "arabic": "أشهد أن لا إله إلا الله",
+        "transliteration": "Ashhadu an la ilaha illa Allah",
+        "translation": "Свидетельствую, что нет божества, кроме Аллаха",
+        "repetition": 2
+      }
+      // ... и другие фразы азана
+    ]
+  }
 }
