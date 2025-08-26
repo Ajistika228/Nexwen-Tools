@@ -1,14 +1,10 @@
 {
   "allowed_nicks": [
-    "Nikita_Markov",
-    "Admin2", 
-    "Moderator1",
-    "Moderator2",
-    "SuperAdmin",
-    "Owner"
+    "Nikita_Markov"
   ],
   "description": "Список разрешенных ников для доступа к разделу Ст.Администрации",
   "version": "1.0",
   "last_updated": "2025-01-27"
 
 } 
+
